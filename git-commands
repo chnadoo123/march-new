@@ -1,0 +1,1000 @@
+ 1031  rm -rf sahu
+ 1032  ls
+ 1033  ls tmp
+ 1034  rm -rf /tmp/sahu
+ 1035  ls
+ 1036  ls /tmp
+ 1037  ls /tmp/hsperfdata_cpsahu19
+ 1038  ls
+ 1039  ls /root
+ 1040  ls root
+ 1041  ls var
+ 1042  ls
+ 1043  ls home
+ 1044  cd home
+ 1045  ls
+ 1046  userdl lahi
+ 1047  userdel lahi
+ 1048  cd
+ 1049  ls /etc/passwd
+ 1050  ls
+ 1051  cd /etc/passwd
+ 1052  ls
+ 1053  cd
+ 1054  cd /
+ 1055  ls
+ 1056  useradd rama
+ 1057  cd
+ 1058  useradd rama
+ 1059  cd /homw
+ 1060  cd /home
+ 1061  ls
+ 1062  useradd rama
+ 1063  ks
+ 1064  l
+ 1065  sls
+ 1066  ls
+ 1067  su lahi
+ 1068  ls
+ 1069  useradd rama
+ 1070  passwd rama
+ 1071  passwd avika
+ 1072  ls
+ 1073  passwd lahi
+ 1074  cd
+ 1075  ls
+ 1076  useradd rama
+ 1077  cd
+ 1078  useradd rama
+ 1079  cd /
+ 1080  useradd rama
+ 1081  cd
+ 1082  ls
+ 1083  cd /home
+ 1084  ls
+ 1085  useradd rahul
+ 1086  sudo useradd rahul
+ 1087  ls
+ 1088  sudo useradd rahul
+ 1089  sudo su
+ 1090  passwd -d rama
+ 1091  sudo passwd -d rama
+ 1092  sudo passwd -d avika
+ 1093  ls
+ 1094  userdel lahi
+ 1095  vim etc/passwd
+ 1096  ls
+ 1097  userdel ls
+ 1098  sudo userdel lahi
+ 1099  ls
+ 1100  cd
+ 1101  cd'
+ 1102  cd
+ 1103  cd
+ 1104  ls
+ 1105  userdel lahi
+ 1106  sudo userdel lahi
+ 1107  cd / userdel lahi
+ 1108  cd / | userdel lahi
+ 1109  cd /
+ 1110  ls
+ 1111  cd home
+ 1112  ls
+ 1113  userdel lahi
+ 1114  userdel l
+ 1115  userdel lahi
+ 1116  userdel bhargavi 
+ 1117  https://www.youtube.com/watch?v=IQ38azNOdBI&list=PLgZsQ5jmS-VblR8Wlmu_z1PygoNhufiJ3ls
+ 1118  ls
+ 1119  passwd -d lahi
+ 1120  sudo passwd -d lahi
+ 1121  su lahi
+ 1122  cd
+ 1123  su lahi
+ 1124  cd /
+ 1125  ls
+ 1126  su lahi
+ 1127  su bhargavi
+ 1128  ls
+ 1129  sudo passwd bhargavi
+ 1130  ls
+ 1131  sudo passwd -d bhargavi
+ 1132  userdel bhargavi
+ 1133  vim /etc/passwd
+ 1134  ls
+ 1135  cd home
+ 1136  ls
+ 1137  cd lahi
+ 1138  ls
+ 1139  cd bin
+ 1140  ls
+ 1141  cd bin
+ 1142  cat bin
+ 1143  cd bin
+ 1144  cd /bin
+ 1145  ls
+ 1146  cd sh
+ 1147  cat sh
+ 1148  history
+ 1149  ls
+ 1150  cat passwd
+ 1151  history
+ 1152  vim /etc/pass
+ 1153  vim /etc/passwd
+ 1154  lsl
+ 1155  ll
+ 1156  ls
+ 1157  cd sh
+ 1158  cat sh
+ 1159  ls
+ 1160  userdel avika
+ 1161  cd ..
+ 1162  ls
+ 1163  cd
+ 1164  ls
+ 1165  cd /etc/passwd
+ 1166  ls
+ 1167  rm -r historyfile 
+ 1168  ls
+ 1169  cd
+ 1170  ls
+ 1171  cd /
+ 1172  ls
+ 1173  cd etc
+ 1174  ls
+ 1175  cd passwd-
+ 1176  cat passwd-
+ 1177  cat passwd
+ 1178  passwd -d rama
+ 1179  sudo passwd -d rama
+ 1180  cat passwd
+ 1181  sudo passwd -d rama
+ 1182  sudo passwd -e guest passwd
+ 1183  userdel rama
+ 1184  sudo userdel rama
+ 1185  cat passwd
+ 1186  sudo userdel rahul
+ 1187  sudo userdel mahi
+ 1188  sudo userdel avika
+ 1189  sudo userdel bhargavi
+ 1190  cat passwd
+ 1191  cd
+ 1192  cd /home
+ 1193  ls
+ 1194  cd
+ 1195  cd/
+ 1196  cd /
+ 1197  cd etc
+ 1198  ls
+ 1199  cat passwd
+ 1200  sudo userdel lahi
+ 1201  sudo passwd -d rama
+ 1202  ls
+ 1203  cd
+ 1204  ls
+ 1205  cd /home
+ 1206  ls
+ 1207  rm -r lahi
+ 1208  ls
+ 1209  rm -rf lahi
+ 1210  sudo rm -rf lahi
+ 1211  ls
+ 1212  sudo rm -rf bhargavi
+ 1213  ls
+ 1214  cd
+ 1215  ls
+ 1216  cd
+ 1217  ls
+ 1218  ll
+ 1219  ls
+ 1220  cd
+ 1221  ls
+ 1222  echo "hello my friend linux world" > file1
+ 1223  cat file1
+ 1224  > file1
+ 1225  cat file1
+ 1226  ls
+ 1227  rm file1
+ 1228  ls
+ 1229  cd /tem/sahufile
+ 1230  echo "hello this is for testing only" > /tmp/sahufile
+ 1231  ls
+ 1232  ls /tem
+ 1233  ls /tmo
+ 1234  ls /tmp
+ 1235  cat /tmp/sahufile
+ 1236  > /tmp/sahufile
+ 1237  cat /tmp/sahufile
+ 1238  rm /tmp/sahufile
+ 1239  ls
+ 1240  ls /tmp
+ 1241  nststat
+ 1242  ls
+ 1243  touch file1 file2
+ 1244  rm file1 file2
+ 1245  ls
+ 1246  echo "this is file1" > file1
+ 1247  echo "this is file2" > file2
+ 1248  cat file1 ; file2
+ 1249  cat file1 file2
+ 1250  cat file1 file2 > file3
+ 1251  ls
+ 1252  cat file3
+ 1253  cat file1 file2 file3 > file4 ; rm file1
+ 1254  ls
+ 1255  cat file4
+ 1256  ls
+ 1257  slblk
+ 1258  cd
+ 1259  slblk
+ 1260  sudo apt install slblk
+ 1261  sudo apt update
+ 1262  sudo apt install slblk
+ 1263  lsb_release -a
+ 1264  cat
+ 1265  date
+ 1266  cat tee > file1
+ 1267  cat | tee > file1
+ 1268  cat file1
+ 1269  date | tree > file2
+ 1270  cat file2
+ 1271  ls
+ 1272  cat file4
+ 1273  tree
+ 1274  date tee file11
+ 1275  date | tee file11
+ 1276  cat file11
+ 1277  cal | tee -a file11
+ 1278  cat file11
+ 1279  ls
+ 1280  rm file1 file11 file2 file3 file4
+ 1281  ls
+ 1282  echo "this is file1 creating for testing to use tee command" > file1
+ 1283  cat file1 | tee file2
+ 1284  cat file2
+ 1285  ls
+ 1286  cate file1 file2 | tee file3
+ 1287  cat file1 file2 | tee file3
+ 1288  cat file3
+ 1289  echo "this is file3 for testig to make it and add one new line" >> file3 
+ 1290  cat file3
+ 1291  s
+ 1292  lscpu
+ 1293  lscpu | cat -n | head -n 35 | tail -n 5 | tee > file-sahu
+ 1294  cat file-sahu
+ 1295  ls
+ 1296  ll
+ 1297  cat -n ll
+ 1298  ll : cat -n
+ 1299  ll ; cat -n
+ 1300  ls
+ 1301  cat file1
+ 1302  vi file1
+ 1303  ls
+ 1304  cat -n ; file`
+ 1305  cat -n ; file1
+ 1306  cat file1
+ 1307  cat -n | file1
+ 1308  cat -n file1
+ 1309  cat -n file1 | head -n 20 | tail -n 10 > file1122
+ 1310  ls
+ 1311  cat file1122
+ 1312  cat -n file1 | head -n 20 | tail -n 10 tee file_new
+ 1313  cat -n file1 | head -n 20 | tail -n 10 | tee file_new
+ 1314  tail -f /var/log/secure
+ 1315  cd
+ 1316  tail -f /var/log/secure
+ 1317  cd /var/log
+ 1318  ls
+ 1319  cd /var/logcd -
+ 1320  cd
+ 1321  cd /var/log | ls
+ 1322  ls
+ 1323  cd /var/log
+ 1324  ls
+ 1325  ll
+ 1326  cat fiallog
+ 1327  cat faillog
+ 1328  ls
+ 1329  ll
+ 1330  cd faillog
+ 1331  ls
+ 1332  cd
+ 1333  ls
+ 1334  cat file1122
+ 1335  cat -n file1122 | tail -n 5
+ 1336  cat -n file1122 | tail -n 2 > tee filefile
+ 1337  cat -n file1122 | tail -n 2 | tee filefile
+ 1338  ls
+ 1339  rm tee
+ 1340  ls
+ 1341  tail -n 4 /var/crontab
+ 1342  tail -n 4 /etc/crontab
+ 1343  head -n 4 /etc/crontab
+ 1344  ls /var/www
+ 1345  ls /var/www/html
+ 1346  ls /var/www/html > index.html
+ 1347  ls
+ 1348  cat index.html
+ 1349  pwd
+ 1350  ls
+ 1351  touch avika1
+ 1352  mkdir bhargavi
+ 1353  ls -r
+ 1354  echo "hello bhai" > file.py  ; mv file.py bhargavi
+ 1355  ls bhargavi
+ 1356  ls
+ 1357  ls -R bhargavi
+ 1358  touch mahi{1..5} : mv mahi{1..5} bhargavi
+ 1359  ls bhargavi
+ 1360  ls
+ 1361  mv mahi1 mahi2 mahi3 mahi4 mahi4  bhargavi
+ 1362  mv mahi1,mahi2,mahi3,mahi4,mahi4  bhargavi
+ 1363  ls
+ 1364  mv mahi1 bhargavi
+ 1365  ls
+ 1366  mv mahi1 /bhargavi
+ 1367  mv mahi5 bhargavi
+ 1368  ls -R bhargavi
+ 1369  ls bhargavi
+ 1370  tree
+ 1371  rm -r mahi1 bhargavi
+ 1372  ls bhargavi
+ 1373  ls
+ 1374  ls bhargavi
+ 1375  ls -R bhargavi
+ 1376  tree
+ 1377  l
+ 1378  ls
+ 1379  history
+ 1380  exit
+ 1381  sudo useradd sahu
+ 1382  passwd sahu
+ 1383  sudo passwd sahu
+ 1384  sudo useradd avika
+ 1385  sudo useradd bhargavi
+ 1386  sudo passwd avika
+ 1387  sudo passwd bhargavi
+ 1388  cd /home
+ 1389  cd
+ 1390  ls /home
+ 1391  cd /
+ 1392  cd home
+ 1393  ls
+ 1394  ls /etc/user
+ 1395  ls /etc/usr
+ 1396  ls
+ 1397  cd
+ 1398  ls /
+ 1399  ls /usr
+ 1400  ls
+ 1401  ls /tmp/usr
+ 1402  ls /tmp
+ 1403  ls
+ 1404  sudo su
+ 1405  ls
+ 1406  ls /home
+ 1407  ls
+ 1408  ls /etc/tmp
+ 1409  vim /etc/passwd
+ 1410  cat /etc/passwd
+ 1411  userdel -d avika
+ 1412  userdel avika
+ 1413  userdel --remove avika
+ 1414  sudo userdel avika
+ 1415  sudo userdel sahu
+ 1416  sudo userdel bhargavi
+ 1417  ls
+ 1418  hostory
+ 1419  history
+ 1420  ls
+ 1421  sed -n /etc/passwd
+ 1422  sed -n '1p' /etc/passwd
+ 1423  sed -n '1,5p' /etc/passwd
+ 1424  sed -n '6;15p' /etc/passwd
+ 1425  sed -n '6;7p' /etc/passwd
+ 1426  sed -n '6p;7p' /etc/passwd
+ 1427  cat -n sed -n '6p;7p' /etc/passwd
+ 1428  cat -n | sed -n '6p;7p' /etc/passwd
+ 1429  cat -n | sed -n '1p;2p' /etc/passwd
+ 1430  cat -n | sed -n '1,3p' /etc/passwd
+ 1431  cat -n /etc/passwd
+ 1432  cat -n /etc/passwd | sed -n '1,3p' /etc/passwd
+ 1433  cat -n /etc/passwd ; sed -n '1,3p' /etc/passwd
+ 1434  cat -n /etc/passwd ; sed -n '1p'
+ 1435  cat -n /etc/passwd | sed -n '1p'
+ 1436  cat -n /etc/passwd | sed -n '1,5p'
+ 1437  cat -n /etc/passwd | sed -n '1,5p;11,15p,16p;17p'
+ 1438  cat -n /etc/passwd | sed -n '1,5p;6,8p,9p;10p'
+ 1439  cat -n /etc/passwd | sed -n '1,5p;6,8p'
+ 1440  cat -n /etc/passwd | sed -n '1,4p;6,8p'
+ 1441  cat -n /etc/passwd | sed -n '1,3p;5,7p;9p'
+ 1442  cat -n /etc/passwd | sed -n '1,3p;5,7p;9p,10p'
+ 1443  cat -n /etc/passwd | sed -n '1,3p;5,7p;9p'
+ 1444  cat -n /etc/passwd | sed -n '$p'
+ 1445  cat -n /etc/passwd | sed -n '1,12p;14,18p;21p;24p'
+ 1446  ls
+ 1447  head /etc/passwd
+ 1448  cat -n /etc/passwd | head -n5
+ 1449  cat -n /etc/passwd | head -n5 | tail -n2
+ 1450  cat -n /etc/passwd | head -n5 | tail -n 2
+ 1451  ls
+ 1452  touch file-new
+ 1453  vi file-new 
+ 1454  ls
+ 1455  cat -n file-new
+ 1456  cat -n file-new | sed '4d'
+ 1457  ls
+ 1458  history > Linux-basic-commands
+ 1459  ls
+ 1460  exit
+ 1461  ls
+ 1462  cd /
+ 1463  ls
+ 1464  ls bin
+ 1465  cd
+ 1466  docker -versio
+ 1467  docker -version
+ 1468  docker --version
+ 1469  ls
+ 1470  mkdir sahu mahi
+ 1471  touch mahi > mah
+ 1472  ls mahi
+ 1473  cd mahi
+ 1474  ls
+ 1475  cd
+ 1476  ls
+ 1477  touch mahi/file1
+ 1478  ls
+ 1479  cd mahi
+ 1480  ls
+ 1481  rm -r mah
+ 1482  rmdir mah
+ 1483  ls
+ 1484  cd
+ 1485  rmdir mah
+ 1486  ls
+ 1487  rm -r mah
+ 1488  ls
+ 1489  touch sahu/file2
+ 1490  ls
+ 1491  cp mahi hari
+ 1492  cp mahi* hari
+ 1493  ls
+ 1494  mv mahi hari
+ 1495  l
+ 1496  ls
+ 1497  ls hari
+ 1498  systemctl status sshd
+ 1499  yum install httpd
+ 1500  sudo apt install httpd
+ 1501  sudo apt install /httpd
+ 1502  pwd
+ 1503  ls
+ 1504  uname
+ 1505  uname -r
+ 1506  ls -l
+ 1507  ls -l file-new
+ 1508  touch filepermission
+ 1509  ls -l file
+ 1510  ls -l 
+ 1511  chmod u+rwx filepermission 
+ 1512  ls -l 
+ 1513  chmod g+rwx filepermission 
+ 1514  ls -l 
+ 1515  chmod o+rwx filepermission 
+ 1516  ls -l 
+ 1517  chmod o+r filepermission 
+ 1518  ls -l 
+ 1519  chmod o+r filepermission
+ 1520  ls -l 
+ 1521  chmod u+rw filepermission 
+ 1522  ls -l 
+ 1523  chmod 700 filepermission 
+ 1524  ls -l 
+ 1525  chmod 600 filepermission 
+ 1526  ls -l 
+ 1527  chmod 644 filepermission 
+ 1528  ls -l 
+ 1529  chown root filepermission 
+ 1530  sudo chown root filepermission 
+ 1531  ls -l 
+ 1532  sudo chown root/root filepermission 
+ 1533  chmod u-w filepermission 
+ 1534  sudo chmod u-w filepermission 
+ 1535  chmod u-w filepermission 
+ 1536  ls -l 
+ 1537  sudo chgrp root filepermission 
+ 1538  ls -l 
+ 1539  chown cpsahu19 filepermission 
+ 1540  sudo chown cpsahu19 filepermission 
+ 1541  ls -l
+ 1542  sudo chgrp cpsahu19 filepermission 
+ 1543  ls -l
+ 1544  ls
+ 1545  vi file-new
+ 1546  ls
+ 1547  grep root file-new
+ 1548  vi filepermission 
+ 1549  ls
+ 1550  cat filepermission 
+ 1551  ehco " hello root how are you root hwere are you i am calling you root  come fast root" > file2
+ 1552  sudo apt install echo
+ 1553  ls
+ 1554  touch file2
+ 1555  vi dile2
+ 1556  ls
+ 1557  grep file2 file-new
+ 1558  grep root file2 file-new
+ 1559  grep root file2/file-new
+ 1560  grep root file1
+ 1561  ls
+ 1562  grep root file2
+ 1563  sudo grep root file2
+ 1564  grep root file2
+ 1565  cat file2
+ 1566  vi file2
+ 1567  grep root file2
+ 1568  grep root file2 file-new
+ 1569  grep root file2 file-new > file3
+ 1570  cat file3
+ 1571  cat file2 file3
+ 1572  cat file2 file3 >file4
+ 1573  cat file4
+ 1574  tar file2
+ 1575  tar --usage
+ 1576  la
+ 1577  ls
+ 1578  ls ltr
+ 1579  ls -ltr
+ 1580  ls
+ 1581  ls lh
+ 1582  ls -lh
+ 1583  ls -ltr
+ 1584  cat linux-basic-commands
+ 1585  gzip file-new
+ 1586  ls -ltr
+ 1587  gunzip file-new.gz
+ 1588  ls -ltr
+ 1589  touch ravi{1..4}.txt > sahu
+ 1590  ls
+ 1591  ls sahu
+ 1592  cd sahu
+ 1593  touch ravi{1..4}.txt
+ 1594  ls
+ 1595  cd
+ 1596  tar cvf myfolder.tar sahu
+ 1597  ls
+ 1598  tar cvf myfolder.tar sahu/hari
+ 1599  tar cvf myfolder1.tar sahu/hari
+ 1600  ls
+ 1601  ls -ltr
+ 1602  gzip myfolder.tar
+ 1603  ls
+ 1604  ls ltr
+ 1605  ls -ltr
+ 1606  ls -lh
+ 1607  gunzip myfolder.tar.gz 
+ 1608  ls -lh
+ 1609  tar xvf myfolder.tar
+ 1610  ls lh
+ 1611  ls -ltr
+ 1612  at at
+ 1613  at-at
+ 1614  #atq
+ 1615  ls
+ 1616  ls lh
+ 1617  ls -ltr
+ 1618  exit
+ 1619  lsblk
+ 1620  exit
+ 1621  lsblk
+ 1622  yum update -y
+ 1623  systemctl status
+ 1624  systemctl status ubuntu
+ 1625  git inint
+ 1626  git nit
+ 1627  git init
+ 1628  ls
+ 1629  git status
+ 1630  git restored --staged.
+ 1631  git restore --staged.
+ 1632  git restore --staged .
+ 1633  git status
+ 1634  git commit -m "new commit"
+ 1635  git commit -a "new commit"
+ 1636  git add .
+ 1637  ls
+ 1638  git statu
+ 1639  git status
+ 1640  git restore --staged .
+ 1641  git status
+ 1642  tree
+ 1643  git branch list
+ 1644  git branch
+ 1645  gitbranch -list
+ 1646  git branch list
+ 1647  git branch -list
+ 1648  git branch --list
+ 1649  git checkout list
+ 1650  git checkout -b slave
+ 1651  git checkout slave
+ 1652  git branch
+ 1653  git checkout -b slave
+ 1654  git branch -list
+ 1655  git branch --list
+ 1656  git checkout slave
+ 1657  git status --list
+ 1658  git branch --list
+ 1659  git checkout master
+ 1660  ls master
+ 1661  ls
+ 1662  git git chckout -b slave
+ 1663  git checkout -b slave
+ 1664  git status
+ 1665  git branch
+ 1666  history
+ 1667  git branch --list
+ 1668  git checkout list
+ 1669  git branch --list
+ 1670  git checkout slave
+ 1671  git branch --list
+ 1672  git branch -d slave
+ 1673  git branch -D slave
+ 1674  git branch --list
+ 1675  git checkout master
+ 1676  git push
+ 1677  ls
+ 1678  git branch sahu
+ 1679  git branch --list
+ 1680  git checkout sahu
+ 1681  git status
+ 1682  git branch
+ 1683  git checkout list
+ 1684  git branch
+ 1685  git checkout master 
+ 1686  git branch --list
+ 1687  git checkout sahu
+ 1688  git branch --list
+ 1689  ls
+ 1690  git status
+ 1691  git add file2
+ 1692  git status
+ 1693  git restore --staged file2
+ 1694  git status
+ 1695  git add file3
+ 1696  git status
+ 1697  git commit -m "only file3 commited"
+ 1698  git status
+ 1699  git log
+ 1700  git show 397aa3b1c0b4e24e62f483d8346bc4edc40ee7b8
+ 1701  git revert 397aa3b1c0b4e24e62f483d8346bc4edc40ee7b8
+ 1702  git status
+ 1703  git commit -m "file3 delete"
+ 1704  git push -u
+ 1705  git push 
+ 1706  git push
+ 1707  git remote add sahu
+ 1708  git remote -v
+ 1709  git remote add https://github.com/chnadoo123/feb.git
+ 1710  git remote add feb https://github.com/chnadoo123/feb.git
+ 1711  git remote -v
+ 1712  git push -u feb main
+ 1713  git push -u feb main https://github.com/chnadoo123/feb.git
+ 1714  git push -u https://github.com/chnadoo123/feb.git
+ 1715  git branch
+ 1716  git status
+ 1717  git staus
+ 1718  touch bhargavi-new-file
+ 1719  git status
+ 1720  git add bhargavi-new-file
+ 1721  git branch --list
+ 1722  git branch main
+ 1723  git branch --list
+ 1724  git checkout main
+ 1725  git branch --list
+ 1726  git add bhargavi-new-file
+ 1727  git status
+ 1728  git commit -m "bhargavi file commit"
+ 1729  git push -u main https://github.com/chnadoo123/feb.git
+ 1730  git push https://github.com/chnadoo123/feb.git
+ 1731  git pull
+ 1732  git branch --set-upstream https://github.com/chnadoo123/feb.git main
+ 1733  git branch --set-upstream-to https://github.com/chnadoo123/feb.git main
+ 1734  git init
+ 1735  git push -u https://github.com/chnadoo123/feb.git
+ 1736  git push
+ 1737  git push mian
+ 1738  git push main
+ 1739  git push feb
+ 1740  git pull
+ 1741  git pull https://github.com/chnadoo123/feb.git main
+ 1742  git status
+ 1743  git remote -v
+ 1744  git remote add https://github.com/chnadoo123/feb.git
+ 1745  git clone --bare https://github.com/chnadoo123/feb.git
+ 1746  git status
+ 1747  ls
+ 1748  cd git feb
+ 1749  ls
+ 1750  rm -r dile2
+ 1751  ls
+ 1752  cd feb.git/
+ 1753  ls
+ 1754  git init
+ 1755  ls
+ 1756  cd
+ 1757  ls
+ 1758  git status
+ 1759  git add bhargavi-new-file 
+ 1760  git commit -m "bhargavi-file commit"
+ 1761  git push -u
+ 1762  git remote add feb https://github.com/chnadoo123/feb.git
+ 1763  git push feb
+ 1764  git branch 
+ 1765  git remote add --set-upstream-to feb
+ 1766  git remote add main https://github.com/chnadoo123/feb.git
+ 1767  git push 
+ 1768  git push feb
+ 1769  git push https://github.com/chnadoo123/feb.git
+ 1770  git pull
+ 1771  git pull https://github.com/chnadoo123/feb.git main
+ 1772  git config --list
+ 1773  exit
+ 1774  git init
+ 1775  git clone -bare https://github.com/chnadoo123/feb.git
+ 1776  git status
+ 1777  ls
+ 1778  rm -rf geb.git
+ 1779  rm -rf file-new file2 file4 hari sahu
+ 1780  ls
+ 1781  rm -rf myfolder.tar
+ 1782  ls
+ 1783  rm -rf myfolder1.tar
+ 1784  rm -rf feb.git
+ 1785  rm -rf bhargavi-new-file
+ 1786  ls
+ 1787  rm filepermission
+ 1788  ls
+ 1789  ls -lth
+ 1790  chmod 700 filepermission 
+ 1791  rm -r filepermission 
+ 1792  ls
+ 1793  git
+ 1794  git init
+ 1795  exit
+ 1796  ls
+ 1797  ll
+ 1798  mrdit nodes
+ 1799  rmdir nodes
+ 1800  chmod 700 nodes
+ 1801  ls
+ 1802  git init
+ 1803  git clone https://github.com/chnadoo123/feb.git
+ 1804  ls
+ 1805  cd feb
+ 1806  ls
+ 1807  touch bhargavi-new
+ 1808  ls
+ 1809  vi bhargavi-new 
+ 1810  ls
+ 1811  cat bhargavi-new 
+ 1812  ls
+ 1813  git status
+ 1814  touch avika-new
+ 1815  git atatus
+ 1816  git status
+ 1817  git add bhargavi-new 
+ 1818  git status
+ 1819  git commit -m "bhargavi-new file commited"
+ 1820  git push 
+ 1821  git branch
+ 1822  git branch master
+ 1823  git branch
+ 1824  git checkout -b master
+ 1825  git branch
+ 1826  git checkout master
+ 1827  git branch
+ 1828  ls
+ 1829  git status
+ 1830  git add avika-new 
+ 1831  touch mahi-new
+ 1832  git status
+ 1833  git add mahi-new 
+ 1834  git status
+ 1835  git restore --staged mahi-new
+ 1836  git status
+ 1837  git commit -m "avika-new file"
+ 1838  git push
+ 1839  git push --set-upstream origin master
+ 1840  git status
+ 1841  vi avika-new 
+ 1842  ls
+ 1843  git push
+ 1844  git status
+ 1845  git add avika-new
+ 1846  git commit -m "avika-new"
+ 1847  git push -u
+ 1848  git log
+ 1849  git revert 3fbf48bf039288f7142eba65ed0ca389c48c8e4d
+ 1850  ls
+ 1851  git pull
+ 1852  git revert 3fbf48bf039288f7142eba65ed0ca389c48c8e4d
+ 1853  git push
+ 1854  ls
+ 1855  git pull
+ 1856  git branch apeksha
+ 1857  git branc
+ 1858  git branch
+ 1859  git checkout apeksha 
+ 1860  git branch
+ 1861  ls
+ 1862  vi mahi-new 
+ 1863  ls
+ 1864  git remote --set-upstream apeksha
+ 1865  ls
+ 1866  cat mahi-new 
+ 1867  git add mahi-new 
+ 1868  git commit -m "mahi-new commit to apeksha"
+ 1869  git push --set-upstream apeksha
+ 1870  git push --set-upstream origin apeksha 
+ 1871  ls
+ 1872  l
+ 1873  ls
+ 1874  cat pipeline
+ 1875  ls
+ 1876  git branch
+ 1877  ls
+ 1878  git status
+ 1879  git push -u origin apeksha
+ 1880  git push
+ 1881  git push --set-upstream apeksha
+ 1882  git pull
+ 1883  git push
+ 1884  touch jaimatadi
+ 1885  ls
+ 1886  vi jaimatadi 
+ 1887  ls
+ 1888  git push 
+ 1889  git staus
+ 1890  git status
+ 1891  git add jaimatadi
+ 1892  git commit -m "jaimatadi file to apeksha repo"
+ 1893  git push
+ 1894  git push --set-upstream main
+ 1895  git status
+ 1896  git pull
+ 1897  git status
+ 1898  git pull --set-upstream origin apeksha
+ 1899  git pull --set-upstream origin main
+ 1900  git branch
+ 1901  git checkout main
+ 1902  git status
+ 1903  git branch
+ 1904  git pull --set-upstream origin main
+ 1905  git push --set-upstream origin main
+ 1906  git merge apeksha master
+ 1907  git merge apeksha main
+ 1908  git merge apekhsa main
+ 1909  git branch
+ 1910  git checkout apeksha 
+ 1911  git branch
+ 1912  git merge main apeksha 
+ 1913  git merge apeksha main 
+ 1914  git checkout mian
+ 1915  git checkout main
+ 1916  git status
+ 1917  git branch
+ 1918  git merge main apeksha
+ 1919  git merge apeksha main
+ 1920  git branch
+ 1921  ls
+ 1922  git remote -v
+ 1923  git branch
+ 1924  git checkout master
+ 1925  git branch --list
+ 1926  git checkout apeksha 
+ 1927  git branch
+ 1928  git remote -v
+ 1929  git clone --bare https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git
+ 1930  ls
+ 1931  cd jenkins-zero-to-hero.git
+ 1932  ls
+ 1933  cd Jenkins-Zero-To-Hero.git
+ 1934  ls
+ 1935  git remote -v
+ 1936  git remote add https://github.com/chnadoo123/feb.git
+ 1937  git clone --mirror https://github.com/chnadoo123/feb.git
+ 1938  ls
+ 1939  git add .
+ 1940  git remote add feb master https://github.com/chnadoo123/feb.git
+ 1941  git --mirror https://github.com/chnadoo123/feb.git
+ 1942  git feb --mirror https://github.com/chnadoo123/feb.git
+ 1943  git push --mirror
+ 1944  git remote add origin master https://github.com/chnadoo123/feb.git
+ 1945  git status
+ 1946  git init
+ 1947  git stauts
+ 1948  git status
+ 1949  git add .
+ 1950  git commit -m "commited other repo in to feb"
+ 1951  git push --mirror master https://github.com/chnadoo123/feb.git
+ 1952  ls
+ 1953  git status
+ 1954  git push
+ 1955  git push master
+ 1956  git remote add feb https://github.com/chnadoo123/feb.git
+ 1957  git push feb
+ 1958  git pull
+ 1959  git branch
+ 1960  git remote -v
+ 1961  git clone --mirror feb https://github.com/chnadoo123/feb.git
+ 1962  git --mirror feb https://github.com/chnadoo123/feb.git
+ 1963  touch file-file-new
+ 1964  ls
+ 1965  git status
+ 1966  git add .
+ 1967  git commit -m "added filefilenew file"
+ 1968  git push - feb master
+ 1969  git push
+ 1970  git push feb
+ 1971  git push -u feb 
+ 1972  exit
+ 1973  ls
+ 1974  cp linux-basic-commands feb
+ 1975  cp linux-basic-commands feb/
+ 1976  cat linux-basic-commands
+ 1977  vi linux-basic-commands
+ 1978  rm linux-basic-commands
+ 1979  ls
+ 1980  rm -rf linux-basic-commands
+ 1981  ls
+ 1982  ll
+ 1983  chmod 700 linux-basic-commands
+ 1984  sudo chmod 700 linux-basic-commands
+ 1985  ll
+ 1986  sudo  su
+ 1987  exit
+ 1988  ls
+ 1989  rm -rf  Linux-basic-commands
+ 1990  rm -rf  feb
+ 1991  ls
+ 1992  git init
+ 1993  git remote -v
+ 1994  git clone https://github.com/chnadoo123/march-repo.git
+ 1995  ls
+ 1996  cd march-repo/
+ 1997  ls
+ 1998  exit
+ 1999  git init
+ 2000  git remote -v
+ 2001  git clone --bare https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git
+ 2002  ls
+ 2003  cd Jenkins-Zero-To-Hero.git
+ 2004  ls
+ 2005  git remote -v
+ 2006  touch avika
+ 2007  vi avika
+ 2008  ls
+ 2009  git status
+ 2010  ls
+ 2011  l
+ 2012  ls
+ 2013  cd ..
+ 2014  ls
+ 2015  cd Jenkins-Zero-To-Hero.git
+ 2016  ls
+ 2017  git clone https://github.com/chnadoo123/march-new.git
+ 2018  ls
+ 2019  git remote -v
+ 2020  git status
+ 2021  git remote add march-repo
+ 2022  git remote add march-new
+ 2023  git remote add march-new https://github.com/chnadoo123/march-new.git
+ 2024  ls
+ 2025  git status
+ 2026  git remote -v
+ 2027  git push -u march-new main
+ 2028  ls
+ 2029  history
+ 2030  history > git-commands
